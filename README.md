@@ -1,2 +1,77 @@
-# Have-a-rest
+# Have a rest!
 This pack is created for farming, building and tropical adventures. If you are tired of a hard work in magic and technology sphere, you can have some kind of a summer vacation exploring the tropical dimension, or build a nice house and have bee, plant and animal farms.
+## Modlist
+* Not Enough Items;
+* Mouse Tweaks;
+* WAILA
+* WAILA Harvestability
+* Morph *(optional)*;
+* Chicken Chunks;
+* Dynamic Lights *(optional)*;
+* Flat Signs;
+* EVOC *(optional)*;
+* Inventory Tweaks;
+* Hats;
+* Hat Stand;
+* OPIS *(optional)*;
+* Weather Mod;
+* Simple Recycling *(optional)*;
+* Somnia *(optional)*;
+* Ruins;
+* FinndusFillies;
+* JourneyMap *(optional)*;
+* Zan's Minimap *(optional)*;
+* Morpheus *(optional)*;
+* Damage Indicators;
+* Backpacks;
+* Charlotte's Utilities;
+* HexWool;
+* Forestry;
+* Growthcraft;
+* Natura;
+* GeoStrata;
+* Extra Utilities;
+* Random Things;
+* OpenBlocks;
+* Binnie's Mods;
+* Billund;
+* Better Storage;
+* BetterChests;
+* Carpenter's Blocks;
+* Chisel;
+* Botania;
+* Biomes O' Plenty;
+* BiblioCraft;
+* BiblioWoods (Natura, Biomes O' Plenty, Forestry, Highlands);
+* Highlands;
+* Tropicraft;
+* Mariculture;
+* Gany's Surface;
+* Gany's End;
+* Gany's Nether;
+* Mo' Creatures;
+* Emasher Resource;
+* The Farlanders;
+* Pam's Harvestcraft;
+* Project Red (Base, Lightning, World);
+* Agriculture;
+* MrCrayfish's Furniture Mod;
+* JABBA;
+* Decocraft;
+* Artifice;
+* SecretRooms Mod;
+* Plugins for Forestry;
+* Vending;
+* Magic Bees;
+* Iron Chest;
+* Minetweaker *(optional)*;
+* NEI Addons;
+* NEI Plugins;
+* Not Enough Codecs;
+* Not Enough Keys;
+* Obisian Pressure Plates;
+* OpenEye *(optional)*;
+* Redstone Paste;
+* Small boats;
+* Statues;
+* Switches.
