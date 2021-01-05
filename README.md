@@ -64,7 +64,7 @@ This pack is created for farming, building and tropical adventures. If you are t
 * Vending;
 * Magic Bees;
 * Iron Chest;
-* Minetweaker *(optional)*;
+* Minetweaker;
 * NEI Addons;
 * NEI Plugins;
 * Not Enough Codecs;
